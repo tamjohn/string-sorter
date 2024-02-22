@@ -4,7 +4,7 @@
 
 The String Sorter is a web application designed to alphabetically sort the letters in a given string. Users can input any string of text, and optionally provide a custom alphabet for sorting. The application will then display the sorted string based on the standard or provided custom alphabet.
 
-The application is available live for use at [this website]().
+The application is available live for use at [this website](https://stringsorter.netlify.app/).
 
 ## Tech Stack
 
